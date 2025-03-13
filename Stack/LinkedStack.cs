@@ -1,7 +1,7 @@
 ﻿using System.Text;
 
 
-namespace Data_Structure.Stack
+namespace Data_Structure
 {
     public class Node<T>
     {
